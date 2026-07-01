@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+
+button {
+  margin: 20px;
+  padding:10px 20px;
+  background-color: lightgray;
+}
+h1 {
+  width:fit-content;
+  background-color: gainsboro;
+  padding: 10px 70px;
+  margin: 20px;
+  font-size: 100px;
+  border-radius: 5px;
+}
+
+input {
+  margin: 20px;
+  padding:10px 20px;
+  background-color: lightgray;
+}
+
+h2 {
+   width:fit-content;
+  background-color: gainsboro;
+  padding: 10px 70px;
+  margin: 20px;
+  font-size: 100px;
+  border-radius: 5px;
+}
